@@ -16,3 +16,7 @@ try (CloseableHttpClient httpClient1 = HttpClients.createDefault();
 					userInfo = result;
 				}
  ```
+
+- [ ] Step 1
+- [ ] Step 2
+- [ ] Step 3
